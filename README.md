@@ -4,7 +4,7 @@ Ta repozitorij vsebuje projekt, v katerem analiziram število porok glede na raz
 
 Pri projektu uporabljam računalniški program _Mathematica_.
 
-### Nacrt projekta
+### Načrt projekta
 
 1. Podatke sem pridobila iz **Statistničnega urada Republike Slovenije**
 2. Časovna analiza števila porok v Sloveniji med leti 2000 in 2020. Narisal bom graf in prikazala v katerem mesecu je bilo povprečno največje število porok.
