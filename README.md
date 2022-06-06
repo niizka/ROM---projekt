@@ -1,6 +1,6 @@
 # Analiza porok v Sloveniji
 
-Ta repozitorij vsebuje projekt, v katerem analiziram število porok glede na različne dejavnike. Ta projekt je pripravljen pri predmetu **Racunalniska orodja v matematiki 2021/22** mojega studija v 1. letniku na Fakulteti za matematiko in fiziko, Univerza v Ljubljani.
+Ta repozitorij vsebuje projekt, v katerem analiziram število porok glede na različne dejavnike. Ta projekt je pripravljen pri predmetu **Računalniška orodja v matematiki 2021/22** mojega študija v 1. letniku na Fakulteti za matematiko in fiziko, Univerza v Ljubljani.
 
 Pri projektu uporabljam računalniški program _Mathematica_.
 
